@@ -1,5 +1,5 @@
 ##############################################
-# OpenWrt Makefile for wlandump-ng program
+# OpenWrt Makefile for lj-leveldb program
 #
 #
 # Most of the variables used here are defined in
